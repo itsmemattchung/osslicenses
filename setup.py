@@ -7,6 +7,11 @@ setup(
     author='Matt Chung',
     author_email='Matt Chung',
     url='https://github.com/itsmemattchung/osslicenses',
+    download_url='https://github.com/itsmemattchung/osslicenses/tarball/0.1',
+    keywords=[
+        'oss',
+        'licenses'
+    ],
     install_requires=[
         'click',
         'tabulate'
